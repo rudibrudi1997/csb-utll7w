@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "https://rudibrudi1997.github.io/csb-utll7w/static/css/main.62e58305.chunk.css",
+    "main.js": "https://rudibrudi1997.github.io/csb-utll7w/static/js/main.1e201818.chunk.js",
+    "main.js.map": "https://rudibrudi1997.github.io/csb-utll7w/static/js/main.1e201818.chunk.js.map",
+    "runtime-main.js": "https://rudibrudi1997.github.io/csb-utll7w/static/js/runtime-main.b063ab44.js",
+    "runtime-main.js.map": "https://rudibrudi1997.github.io/csb-utll7w/static/js/runtime-main.b063ab44.js.map",
+    "static/js/2.80d11225.chunk.js": "https://rudibrudi1997.github.io/csb-utll7w/static/js/2.80d11225.chunk.js",
+    "static/js/2.80d11225.chunk.js.map": "https://rudibrudi1997.github.io/csb-utll7w/static/js/2.80d11225.chunk.js.map",
+    "index.html": "https://rudibrudi1997.github.io/csb-utll7w/index.html",
+    "static/css/main.62e58305.chunk.css.map": "https://rudibrudi1997.github.io/csb-utll7w/static/css/main.62e58305.chunk.css.map",
+    "static/js/2.80d11225.chunk.js.LICENSE.txt": "https://rudibrudi1997.github.io/csb-utll7w/static/js/2.80d11225.chunk.js.LICENSE.txt",
+    "static/media/Bachelorwork.137c106a.png": "https://rudibrudi1997.github.io/csb-utll7w/static/media/Bachelorwork.137c106a.png",
+    "static/media/Games_of_PM.c8eb656d.png": "https://rudibrudi1997.github.io/csb-utll7w/static/media/Games_of_PM.c8eb656d.png",
+    "static/media/Jobwatch_concepts.18bfa5bc.png": "https://rudibrudi1997.github.io/csb-utll7w/static/media/Jobwatch_concepts.18bfa5bc.png",
+    "static/media/lance-asper-unsplash.ff4e4a36.jpg": "https://rudibrudi1997.github.io/csb-utll7w/static/media/lance-asper-unsplash.ff4e4a36.jpg",
+    "static/media/movisens_RGB_Web.5b49b5c2.png": "https://rudibrudi1997.github.io/csb-utll7w/static/media/movisens_RGB_Web.5b49b5c2.png",
+    "static/media/pexels-kevin-ku-577585.92f12f07.jpg": "https://rudibrudi1997.github.io/csb-utll7w/static/media/pexels-kevin-ku-577585.92f12f07.jpg",
+    "static/media/user_2.6c63bee9.png": "https://rudibrudi1997.github.io/csb-utll7w/static/media/user_2.6c63bee9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b063ab44.js",
+    "static/js/2.80d11225.chunk.js",
+    "static/css/main.62e58305.chunk.css",
+    "static/js/main.1e201818.chunk.js"
+  ]
+}
